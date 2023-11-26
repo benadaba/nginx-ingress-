@@ -841,9 +841,9 @@ application/vnd.nokia.conml+wbxml
 application/vnd.nokia.conml+xml
 application/vnd.nokia.iptv.config+xml
 application/vnd.nokia.iSDS-radio-presets
-application/vnd.nokia.landmark+wbxml
-application/vnd.nokia.landmark+xml
-application/vnd.nokia.landmarkcollection+xml
+application/vnd.nokia.datapandas+wbxml
+application/vnd.nokia.datapandas+xml
+application/vnd.nokia.datapandascollection+xml
 application/vnd.nokia.n-gage.ac+xml		ac
 application/vnd.nokia.n-gage.data		ngdat
 application/vnd.nokia.n-gage.symbian.install	n-gage
